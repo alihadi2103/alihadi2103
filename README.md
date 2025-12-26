@@ -1,6 +1,6 @@
 # Ali Hadi
 
-## Full-Stack & AI Engineer | Problem-Solving–Driven Systems Builder
+## Full-Stack & AI Engineer 
 
 I am a full-stack software engineer with a strong foundation in **Python and JavaScript** for backend and frontend development, complemented by a background in **automation and control engineering** in the petrochemical industry. I have expertise in **Reinforcement Learning (RL)** and a deep interest in **integrating AI into engineering systems** to optimize processes, control strategies, and decision-making.
 
@@ -30,9 +30,7 @@ I design systems where **AI, especially RL, is applied to engineering and contro
 
 Building interactive, responsive applications that leverage **Python and JS stacks**, ensuring seamless integration between frontend and AI-powered backend modules.
 
-### 3. Distributed & Asynchronous Architectures
 
-Many of my systems rely on **background workers, job queues, and event-driven flows** to handle compute-heavy tasks like AI inference, media processing, and engineering simulations.
 
 ---
 
