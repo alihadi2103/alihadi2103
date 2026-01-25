@@ -9,7 +9,7 @@ I combine my engineering knowledge with modern software practices, including:
 * **Frontend Development:** React, Vue.js, and dynamic user interfaces
 * **Backend Development:** Python (Django, FastAPI), Node.js, REST/GraphQL APIs
 * **AI & ML Integration:** NLP pipelines, RAG systems, computer vision, speech processing, Reinforcement Learning for control and optimization
-* **DevOps Practices:** Docker, Kubernetes, Helm Charts, GitHub Actions
+* **DevOps Practices:** Docker, Kubernetes, Helm Charts, GitHub Actions,Zenml,Mlflow,Apache airflow ,Data Ingestion Pipelines 
 * Currently expanding knowledge in **Terraform** and cloud-native infrastructure for scalable deployments
 
 Across my projects, I work at the intersection of:
